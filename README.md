@@ -1,5 +1,5 @@
 # Plinko
-CS 142 Lab 4 
+Project code sample from intro level CS course at BYU 
 
 Author: Nathan Marrs
 
